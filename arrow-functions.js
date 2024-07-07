@@ -57,3 +57,4 @@ let students = [
 for (stud of students){
     console.log(stud.subjects)
 }
+
